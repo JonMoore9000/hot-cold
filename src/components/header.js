@@ -1,7 +1,7 @@
 import React from 'react';
 
-import TopNav from './nav';
-import InfoModal from './info';
+import TopNav from './top-nav';
+import InfoModal from './info-modal';
 
 export default class Header extends React.Component  {
     constructor(props) {
